@@ -1,4 +1,4 @@
-# Aspect Sorter AX
+# Aspect-Sorter-Py
 
 A tiny, zero-configuration Python script that sorts your photos and videos into folders by **aspect ratio**:
 
